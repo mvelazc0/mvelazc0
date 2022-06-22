@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm a threat researcher at [Splunk's](https://www.splunk.com) Threat Research Team. My areas of focus include detection engineering, threat hunting and adversary simulation.
+
+
+I (ocassionally) maintain a blog at [https://medium.com/@mvelazco/](https://medium.com/@mvelazco/).
+
+I have presented and hosted workshops at many industry conferences including BlackHat, DEFCON, DerbyCon, BSides, Splunk .conf, SANS, MITRE ATT&CKcon, and  other conferences. Most of these can be found here: [Talks-Presentations](https://github.com/mvelazc0/Talks-Presentations).
 
 You can also find me on [Twitter](https://twitter.com/mvelazco) and [LinkedIn](https://www.linkedin.com/in/mauricio-velazco-4314b51a/).
 

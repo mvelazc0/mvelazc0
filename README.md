@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+You can also find me on [Twitter](https://twitter.com/mvelazco) and [LinkedIn](https://www.linkedin.com/in/mauricio-velazco-4314b51a/).
+
+<p align="center">
+    <a href="https://twitter.com/mvelazco"><img src="https://img.shields.io/twitter/follow/mvelazco?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=53B1A8"></a>
+    <a href="https://github.com/mvelazc0"><img src="https://img.shields.io/github/followers/mvelazc0?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=53B1A8"></a>
+</p>
+
 <!--
 **mvelazc0/mvelazc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,3 +1,4 @@
+
 # Hi there 👋
 
 I'm Mauricio. Currently, I'm a threat researcher at [Splunk's](https://www.splunk.com) Threat Research Team. My areas of focus include detection engineering, threat hunting and adversary simulation.
